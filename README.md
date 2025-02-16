@@ -3,8 +3,8 @@
 Demo transfer a file (video.mp4) from Server to Client using Linux TCP Socket
 
 **Compile:**
-gcc Server.c -o Server \n
-gcc Client.c -o Client \n
+gcc Server.c -o Server
+gcc Client.c -o Client 
 
 **Run:**
 1. Open Terminal 1 : ./Server
